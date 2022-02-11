@@ -4,7 +4,6 @@
 
 😶 I'm a Devops
 
-<hr>
 
 ## Languages & Frameworks & Tools & Abilities
 
@@ -13,7 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=social)&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
 
-<hr>
 
 ## Content Me 📱
 
