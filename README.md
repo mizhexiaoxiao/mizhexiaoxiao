@@ -5,7 +5,7 @@
 😶 I'm a Devops
 
 
-## Languages & Frameworks & Tools & Abilities
+### Abilities
 
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
