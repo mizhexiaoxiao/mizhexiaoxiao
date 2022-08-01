@@ -25,3 +25,4 @@
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizhexiaoxiao&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
 </a>
 <br/>
+![Snake animation](https://github.com/mizhexiaoxiao/mizhexiaoxiao/blob/output/github-contribution-grid-snake.svg)
