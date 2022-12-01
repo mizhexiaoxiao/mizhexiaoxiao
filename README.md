@@ -26,4 +26,4 @@
 </a>
 <br/>
 
-  ![Snake animation](https://github.com/mizhexiaoxiao/mizhexiaoxiao/blob/output/github-contribution-grid-snake.svg)
+
