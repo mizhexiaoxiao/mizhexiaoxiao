@@ -15,7 +15,7 @@
 
 ## Content Me 📱
 
-- email: <a href="mailto:1157861072@qq.com">1157861072@qq.com</a>
+- email: <a href="mailto:mizhexiaoxiao@gmail.com">mizhexiaoxiao@gmail.com</a>
 
 
 <a href="https://github.com/mizhexiaoxiao/github-readme-stats" title="Go to Source">
