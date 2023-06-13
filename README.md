@@ -26,4 +26,7 @@
 </a>
 <br/>
 
-
+### 😆 Views
+<div align="left">
+<img src='https://count.getloli.com/get/@mizhexiaoxiao.github.readme'>
+</div>
